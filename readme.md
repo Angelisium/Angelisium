@@ -7,12 +7,13 @@ Currently  (since 2023)  on  a  open-ended  contract  as  a  consultant  analyst
 programmer for [Ariane Group][L1].   
 I professionally work with Java (J2EE), JavaScript, Python and VBA.   
 In my free time, I work mainly with Rust and JavaScript.   
-I'm currently concentrating  my efforts  (in solo) on  re-establishing [Motion Twin
+<!-- I'm currently concentrating  my efforts  (in solo) on  re-establishing [Motion Twin
 games][L2], with their authorizations : [Twinoid][L3].   
-*And soon, perhaps on Steam 👀*
+*And soon, perhaps on Steam 👀*-->
 
-You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
-[CodeSandbox][S5] - [Discord][S6] (angelisium)
+You can also find me on : [CodePen][S3] - [Discord][S6] (angelisium)
+<!-- [Github][S1]  -  [GitLab][S2] -  [npm][S4] -
+[CodeSandbox][S5] - -->
 
 #### Some "blog" posts I wrote recently (ok, maybe not so recent) :
  - 07/2024 : [Creating a bijective algorithm in base 26][B3]

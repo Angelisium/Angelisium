@@ -3,10 +3,10 @@
 
 I'm Angelisium, a 27 years old French developer <3
 
-Currently  (since 2023)  on  a  open-ended  contract  as  a  consultant  analyst
+Currently (since 2023)  on a open-ended  contract (CDI) as a  consultant analyst
 programmer for [Ariane Group][L1].   
-I professionally work with Java (J2EE), JavaScript, Python and VBA.   
-In my free time, I work mainly with Rust and JavaScript.   
+I develop professionally in Java, JavaScript, Python, VBA and a few others.   
+For personal projects, I use mainly Rust and JavaScript.   
 <!-- I'm currently concentrating  my efforts  (in solo) on  re-establishing [Motion Twin
 games][L2], with their authorizations : [Twinoid][L3].   
 *And soon, perhaps on Steam 👀*-->

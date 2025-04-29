@@ -1,12 +1,11 @@
 *Credit of my profile picture : Frieke Janssens - [Smoking Kids][L0].*
 ### Hey ! ✌️
 
-I'm Angelisium, a 27 years old French developer <3
+I'm Angelisium, a 28 years old French developer <3
 
 Currently (since 2023)  on a open-ended  contract (CDI) as a  consultant analyst
 programmer for [Ariane Group][L1].   
-I develop professionally in Java, JavaScript, Python, VBA and a few others.   
-For personal projects, I use mainly Rust and JavaScript.   
+I work mainly with Rust, Java and JavaScript.   
 <!-- I'm currently concentrating  my efforts  (in solo) on  re-establishing [Motion Twin
 games][L2], with their authorizations : [Twinoid][L3].   
 *And soon, perhaps on Steam 👀*-->
@@ -24,7 +23,7 @@ You can also find me on : [CodePen][S3] - [Discord][S6] (angelisium)
  ! Page links                                                                 -
  !----------------------------------------------------------------------------->
 [L0]: https://frieke.com/smoking-kids/
-[L1]: https://www.ariane.group/en/
+[L1]: https://ariane.group/en/
 [L2]: https://motiontwin.com/faq#Q_previousgames_10
 [L3]: https://twinoid.angelisium.fr/
 
